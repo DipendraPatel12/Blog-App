@@ -1,2 +1,0 @@
-# echo '* text=auto' > .gitattributes
-*.js text eol=lf
